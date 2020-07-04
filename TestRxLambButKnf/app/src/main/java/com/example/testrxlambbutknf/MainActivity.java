@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     @OnClick (R.id.buttonUnsubscribe)
     public void unsubscribe(View view) {
         disposable.dispose();
+        Log.d(TAG, "unsubscribe: ");
     }
 }
 
