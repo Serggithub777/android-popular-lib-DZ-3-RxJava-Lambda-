@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestRxLambButKnf</string>
+    <string name="buttonSubscribe">Subscribe</string>
+    <string name="buttonUnsubscribe">Unsubscribe</string>
+</resources>
