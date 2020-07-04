@@ -1,9 +1,7 @@
 package com.example.testrxlambbutknf;
 
 import android.util.Log;
-
 import java.util.concurrent.TimeUnit;
-
 import io.reactivex.Observable;
 import io.reactivex.ObservableOnSubscribe;
 import io.reactivex.schedulers.Schedulers;
