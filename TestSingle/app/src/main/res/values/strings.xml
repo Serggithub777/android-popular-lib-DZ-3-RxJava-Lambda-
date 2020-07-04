@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestSingle</string>
+    <string name="buttonGetData">Get Data</string>
 </resources>
