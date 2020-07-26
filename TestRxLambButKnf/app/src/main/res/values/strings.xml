@@ -3,4 +3,7 @@
     <string name="buttonSubscribe">Subscribe</string>
     <string name="buttonUnsubscribe">Unsubscribe</string>
     <string name="textview">TextView</string>
+    <string name="buttonGetString">Get picture URL</string>
+    <string name="buttonShowPicture">Show picture</string>
+    <string name="avatar">avatar</string>
 </resources>
