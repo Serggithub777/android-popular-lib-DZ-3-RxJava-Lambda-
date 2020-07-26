@@ -22,8 +22,10 @@ public class RetrofitPresenter {
         Disposable disposable = single.observeOn(AndroidSchedulers.mainThread()).subscribe(user -> {
             Log.d(TAG, "onNext: " + user.getLogin());
             Log.d(TAG, "onNext: " + user.getCompany());
+            Log.d(TAG, "onNext: " + user.getAvatarUrl());
         }, throwable -> {
             Log.e(TAG, "onError");
         });
     }
+
 }
