@@ -6,6 +6,9 @@ import android.os.Bundle;
 
 public class RetrofitActivity extends AppCompatActivity {
 
+    private static final String TAG = "RetrofitActivity";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
